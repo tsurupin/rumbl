@@ -12,7 +12,7 @@
       <div id="msg-container" class="panel-body annotations">
       </div>
       <div class="pabel-footer">
-        <textarea id="msg-input" rows="3" class="form-control" placeholder="Comment..."></textarea
+        <textarea id="msg-input" rows="3" class="form-control" placeholder="Comment..."></textarea>
         <button id="msg-submit" class="btn btn-primary form-control" type="submit">Post</button>
       </div>
     </div>
